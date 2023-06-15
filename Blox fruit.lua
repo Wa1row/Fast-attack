@@ -2,7 +2,7 @@
 
  ["FastAttack"] = true,
 
- ["ClickAttack"] = false
+ ["ClickAttack"] = true
 
 } 
 
